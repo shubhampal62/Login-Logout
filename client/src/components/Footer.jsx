@@ -12,7 +12,7 @@ export default function Footer() {
                     </Link>
                 </div>
                 <div>
-                    &copy; Nahar {currentYear}
+                    &copy; Shubham Pal {currentYear}
                 </div>
                 <div>
                     <Link to="/about" className="hover:text-gray-300">
